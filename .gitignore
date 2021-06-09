@@ -1,3 +1,12 @@
 /projbackend/node_modules
+/projfrontend/node_modules
+/projfrontend/.gitignore
 
 /projbackend/.env
+
+
+/projbackend/.DS_Store
+/projbackend/.env
+/projbackend/.env.development.local
+/projbackend/.env.test.local
+/projbackend/.env.production.local
