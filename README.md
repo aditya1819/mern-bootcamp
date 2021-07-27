@@ -16,14 +16,9 @@ User / Admin accounts with different functions, CRUD operation on products
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/aditya1819/mern-ecom-store.git
 ```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
+In projbackend and projefrontend folder :
 
 Install dependencies
 
@@ -34,7 +29,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm start
 ```
 
   
